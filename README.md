@@ -33,20 +33,13 @@
       <!-- Loading the data just for you. -->
       <img src="https://ghchart.rshah.org/patanabida" alt="react-activity-calendar" />
     </div>
-    <br>
-    <div id="git-stat">
       <div>
-        <img id="github-streak-stats"
-          src="https://github-readme-streak-stats.herokuapp.com?user=patanabida&theme=moonlight&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" alt="streak-stat"/>
-        <br>
-        <img id="github-stats-card"
-          src="https://github-readme-stats.vercel.app/api?username=patanabida&show_icons=true&theme=moonlight"
-          alt="stat-card" />
+        <img id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=patanabida&theme=moonlight&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" alt="streak-stat" />
+     <br>
+        <img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=patanabida&show_icons=true&theme=moonlight" alt="stat-card" />
       </div>
       <div>
-        <img id="github-top-langs"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=patanabida&theme=moonlight"
-          alt="top_languages" />
+        <img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patanabida&theme=moonlight" alt="top_languages" />
       </div>
 
 
